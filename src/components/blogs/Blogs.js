@@ -13,7 +13,7 @@ const Blogs = () => {
             </div>
             <div className='p-4 text-lg border'>
                 <p className='text-xl font-semibold'>Question3: Usage of useEffect without calling api</p>
-                <p>Answer:</p>
+                <p>Answer: APIs are the primary way for applications to programmatically communicate with servers to provide users with real-time data and to save user changes. In React applications, you will use APIs to load user preferences, display user information, fetch configuration or security information, and save application state changes.</p>
             </div>
         </div>
     );
