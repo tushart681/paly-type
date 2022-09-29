@@ -8,7 +8,7 @@ const Blogs = () => {
                 <p>Answer:</p>
             </div>
             <div className='p-4 text-lg border'>
-                <p className='text-xl font-semibold'>Question2:</p>
+                <p className='text-xl font-semibold'>Question2: Difference between props and state</p>
                 <p>Answer:</p>
             </div>
             <div className='p-4 text-lg border'>
