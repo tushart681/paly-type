@@ -12,7 +12,7 @@ const Blogs = () => {
                 <p>Answer:</p>
             </div>
             <div className='p-4 text-lg border'>
-                <p className='text-xl font-semibold'>Question3:</p>
+                <p className='text-xl font-semibold'>Question3: Usage of useEffect without calling api</p>
                 <p>Answer:</p>
             </div>
         </div>
