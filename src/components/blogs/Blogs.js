@@ -4,16 +4,16 @@ const Blogs = () => {
     return (
         <div className='flex flex-col gap-8'>
             <div className='p-4 text-lg border'>
-                <p className='text-xl font-semibold'>Questio</p>
-                <p>Answer</p>
+                <p className='text-xl font-semibold'>Question1: How does React works?</p>
+                <p>Answer:</p>
             </div>
             <div className='p-4 text-lg border'>
-                <p className='text-xl font-semibold'>Questio</p>
-                <p>Answer</p>
+                <p className='text-xl font-semibold'>Question2:</p>
+                <p>Answer:</p>
             </div>
             <div className='p-4 text-lg border'>
-                <p className='text-xl font-semibold'>Questio</p>
-                <p>Answer</p>
+                <p className='text-xl font-semibold'>Question3:</p>
+                <p>Answer:</p>
             </div>
         </div>
     );
